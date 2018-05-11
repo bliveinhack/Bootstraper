@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Epeurope</string>
+    <string name="title_activity_list_tour">ListTourActivity</string>
+    <string name="title_activity_tour_detailitinerary">TourDetailitinerary</string>
+    <string name="notes">Description</string>
+    <string name="contact_info">Passenger Info</string>
+    <string name="documents">Documents</string>
+    <string name="voucher">Voucher</string>
+    <string name="feedback">Feedback</string>
+    <string name="logout">Logout</string>
+    <string name="help">Website\nhttp://www.epeurope.co.uk</string>
+    <string name="help_title">Need Help ?</string>
+</resources>
